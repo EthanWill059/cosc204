@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/ethanwilliams/uni/cosc204/hello_world'
+relocations:     []
+...
